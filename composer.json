@@ -1,0 +1,15 @@
+{
+    "name": "baur/php-slim-hello-world",
+    "description": "My First PHP Slim Hellow World project",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "baur114",
+            "email": "baurdotnet@gmail.com"
+        }
+    ],
+    "require": {
+        "slim/slim": "^3.0"
+    }
+}
